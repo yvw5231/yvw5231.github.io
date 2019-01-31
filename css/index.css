@@ -1,0 +1,187 @@
+#nav {
+	width: auto;
+	height: auto;
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 9999;
+	border: none;
+	background-color: transparent;
+}
+
+#nav a:hover{
+	color: black;
+	opacity: 0.85;
+}
+
+#nav img{
+	width: 20px;
+	height: auto;
+}
+
+.section img{
+	width: auto;
+	height: 22vh;
+}
+
+#detail img{
+	width: auto;
+	height: 25vh;
+	margin-bottom: 4%;
+}
+
+#detail a{
+	color: rgb(204, 153, 0);
+}
+
+.school a:hover{
+	text-decoration: none;
+	opacity: 0.65;
+}
+
+.info{
+	font-size: 13px;
+}
+
+.place{
+	font-size: 15px;
+}
+
+#sk{
+	width: auto;
+	height: 20px;
+}
+
+#linux{
+	width: 60%;
+	height: auto;
+	background-color: rgb(35, 35, 35);
+	margin: auto;
+	text-align: left;
+	border: inset;
+	overflow: hidden;
+}
+
+#linux p{
+	margin-left: 5px;
+	margin-bottom: 1px;
+	color: rgb(220, 220, 220);
+}
+
+.green{
+	color: rgb(0, 153, 51);
+}
+
+.blue{
+	color: rgb(51, 122, 183);
+}
+
+.responsibilty{
+	font-size: 18px;
+	
+}
+
+.job_title{
+	font-size: 25px;
+	color: rgb(51, 122, 183);
+}
+
+.job_title:hover{
+	opacity: 0.65;
+}
+
+[class |= "col-sm-12"] [class |= "main-menu-desc"]{
+	text-decoration: none;
+	font-size: 30px;
+	color: rgb(204, 153, 0);
+}
+
+[class |= "col-sm"]{
+	margin-bottom: 3%;
+}
+
+#section_1{
+	text-align: center;
+	color: rgb(204, 153, 0);
+}
+
+.section{
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+#resume{
+	margin-bottom: 10px;
+}
+
+#resume:hover{
+	opacity: 0.65;
+}
+
+#name{
+	margin-bottom: 5px;
+}
+
+#name:hover{	
+	opacity: 0.65;
+}
+
+#social li a img {
+	width: 20px;
+	height: auto;
+}
+
+#social li a img:hover {
+	opacity: 0.65;
+}
+
+#social {
+	padding: 0;
+	text-align: center;
+}
+
+#social li {
+	display: inline;
+}
+
+#pro{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+.project_image img{
+	width: 80%;
+	height: auto;
+}
+
+.project_image div{
+	width: 80%;
+	height: auto;
+}
+
+.project_image p{
+	font-size: 20px;
+	color: rgb(204, 153, 0);
+}
+
+.project_image a{
+	color: rgb(204, 153, 0);
+	
+}
+
+.project_image a:hover{
+	text-decoration: none;
+	opacity: 0.65;
+}
+
+#pro [class |= "col-sm-6"] p{
+	
+}
+
+
+
+
+
+
+
